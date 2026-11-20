@@ -8,6 +8,8 @@ A dark VS Code theme with plum night, crimson silk, jade and parchment light.
 
 ## Palette
 
+![Blossom Princess palette](images/palette.png)
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
