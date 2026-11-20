@@ -2,9 +2,10 @@
   "name": "blossom-princess",
   "displayName": "Blossom Princess",
   "description": "A dark VS Code theme with plum night, crimson silk, jade and parchment light.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "thaisemanuele",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },

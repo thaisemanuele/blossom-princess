@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Blossom Princess" width="320">
+</p>
+
 # Blossom Princess
 
 A dark VS Code theme with plum night, crimson silk, jade and parchment light.
