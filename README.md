@@ -7,9 +7,9 @@ A dark VS Code theme with plum night, crimson silk, jade and parchment light.
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
-| Sidebar and panels | `#170d15` |
-| Editor background | `#21131e` |
-| Menus, inputs and widgets | `#33202f` |
+| Sidebar and panels | `#141015` |
+| Editor background | `#1c161d` |
+| Menus, inputs and widgets | `#2a2230` |
 | UI accent (selection, buttons, badges) | `#ba344c` |
 | Text | `#efe6dc` |
 | Comments | `#6e8fae` |
