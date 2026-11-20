@@ -1,0 +1,39 @@
+{
+  "name": "blossom-princess",
+  "displayName": "Blossom Princess",
+  "description": "A dark VS Code theme with plum night, crimson silk, jade and parchment light.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "red",
+    "crimson",
+    "jade",
+    "plum"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/blossom-princess"
+  },
+  "galleryBanner": {
+    "color": "#21131e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blossom Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blossom-princess-color-theme.json"
+      }
+    ]
+  }
+}
