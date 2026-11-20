@@ -13,7 +13,7 @@ A dark VS Code theme with plum night, crimson silk, jade and parchment light.
 | UI accent (selection, buttons, badges) | `#ba344c` |
 | Text | `#efe6dc` |
 | Comments | `#6e8fae` |
-| Keywords, operators, tags | `#f07a8e` |
+| Keywords, operators, tags | `#e8909e` |
 | Functions, keys, attributes | `#8fb3d1` |
 | Strings | `#80ad91` |
 | Types, numbers, cursor | `#f1d6ae` |
