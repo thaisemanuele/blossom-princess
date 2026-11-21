@@ -10,6 +10,60 @@
     "jade",
     "plum"
   ],
+  "readmeTable": [
+    [
+      "Sidebar and panels",
+      "#141015"
+    ],
+    [
+      "Editor background",
+      "#1C161D"
+    ],
+    [
+      "Menus, inputs and widgets",
+      "#2A2230"
+    ],
+    [
+      "Selection",
+      "#4E2A3C"
+    ],
+    [
+      "Buttons and badges",
+      "#8E3045"
+    ],
+    [
+      "Text",
+      "#EFE6DC"
+    ],
+    [
+      "Comments",
+      "#6E8FAE"
+    ],
+    [
+      "Keywords, operators, tags",
+      "#EC6F83"
+    ],
+    [
+      "Control flow (import, return, if), active icon",
+      "#F2A0AE"
+    ],
+    [
+      "Functions, keys, attributes",
+      "#92B8DD"
+    ],
+    [
+      "Strings",
+      "#6FC597"
+    ],
+    [
+      "Types, numbers, cursor",
+      "#F1D6AE"
+    ],
+    [
+      "Rare accent (this, regex, enum members)",
+      "#E9C27D"
+    ]
+  ],
   "colors": {
     "bgDeep": "#141015",
     "bgEditor": "#1C161D",
